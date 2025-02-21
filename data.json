@@ -1,6 +1,7 @@
 {
-    "USA": 100,
-    "Canada": 200,
-    "Germany": 150,
-    "France": 180
+    "usa": 100,
+    "canada": 200,
+    "germany": 150,
+    "france": 180,
+    "italy": 99999999,
 }
